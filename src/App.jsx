@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from "react";
-import Postcard from "./assets/postcard.jsx";
+import Postcard from "./assets/Postcard.jsx";
 import "./App.css";
 import axios from "axios";
 
